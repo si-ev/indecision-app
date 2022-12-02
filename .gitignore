@@ -1,0 +1,11 @@
+node_modules/
+public/dist/
+
+*.swp
+*.orig
+
+Session.vim
+tags
+
+.env.test
+.env.development
